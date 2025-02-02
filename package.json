@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Balo static site",
     "scripts": {
-      "start": "http-server ./dist -p 80"
+      "start": "http-server ./dist -p 8080"
     },
     "dependencies": {},
     "devDependencies": {
